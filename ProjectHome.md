@@ -1,0 +1,1 @@
+Mi first flash game, there's a lot of room for improvement. Actually you will see 2 AI fighting for scoring points.
